@@ -40,6 +40,8 @@ let computer_rock = document.getElementById("c_Rock")
 let computer_paper = document.getElementById("c_Paper")
 let computer_scissors = document.getElementById("c_Scissors")
 
+
+
 let computer_choice = [computer_rock, computer_paper, computer_scissors]
 
 let compchoice, yourchoice
